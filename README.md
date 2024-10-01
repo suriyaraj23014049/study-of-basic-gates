@@ -60,20 +60,29 @@ Y= A⊕B
 4.	Create nodes for inputs and outputs to generate the timing diagram.
 
 5.	For different input combinations generate the timing diagram.
-
+   
+ Developed by:SURIYA RAJ K
+ 
+ RegisterNumber: 212223040216
+ 
 
 **PROGRAM**
+![prog 1](https://github.com/user-attachments/assets/ac655be7-da88-4868-9966-b222df87943d)
 
-Program for logic gates and verify its truth table in quartus using Verilog programming
-
- Developed by: RegisterNumber: 
- 
-**Logic symbol & Truthtable**
-
-**RTL realization Output:** 
 
 **RTL**
+![RTL1](https://github.com/user-attachments/assets/a4970019-91dc-4a1d-a3f3-dd755540d146)
+
+
+**RTL realization Output:** 
+![RTL OUTPUT 1](https://github.com/user-attachments/assets/45f6c46d-ebd3-408c-9343-374f8adbe4fa)
+
+
+
 
 **Result:**
+
+    The program is verified successfully using the software quertus prime.
+
 
 
