@@ -67,11 +67,19 @@ Y= A⊕B
  
 
 **PROGRAM**
-![prog 1](https://github.com/user-attachments/assets/ac655be7-da88-4868-9966-b222df87943d)
-
+```
+module exp1(a,b,c,d,e); 
+input a,b; 
+output c,d,e; 
+and(c,a,b); 
+or(d,a,b); 
+xor(e,a,b); 
+endmodule
+```
 
 **RTL**
-![RTL1](https://github.com/user-attachments/assets/a4970019-91dc-4a1d-a3f3-dd755540d146)
+![image](https://github.com/user-attachments/assets/f44f5288-1658-4745-bbcf-2ae52d844ef3)
+
 
 
 **RTL realization Output:** 
