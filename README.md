@@ -61,9 +61,9 @@ Y= A⊕B
 
 5.	For different input combinations generate the timing diagram.
    
- Developed by:SURIYA RAJ K
+**Developed by:SURIYA RAJ K**
  
- RegisterNumber: 212223040216
+ **RegisterNumber: 212223040216**
  
 
 **PROGRAM**
