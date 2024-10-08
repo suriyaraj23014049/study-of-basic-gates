@@ -68,12 +68,16 @@ Y= A⊕B
 
 **PROGRAM**
 ```
-module exp1(a,b,c,d,e); 
-input a,b; 
-output c,d,e; 
-and(c,a,b); 
-or(d,a,b); 
-xor(e,a,b); 
+module exp1(a, b, c, d, e, f, g, h);
+ input a, b;
+ output c, d, e, f, g, h;
+
+ and (c, a, b);    
+ or (d, a, b);     
+ xor (e, a, b);    
+ nand (f, a, b);   
+ nor (g, a, b);    
+ xnor (h, a, b);   
 endmodule
 ```
 
